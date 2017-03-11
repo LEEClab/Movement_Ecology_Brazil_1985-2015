@@ -4,6 +4,6 @@ Here we present the data and the analyses of the state of the art of scientific 
 
 The data and code presented here is part and Supplementary Material of the article:
 
-Alves-Eigenheer et al. Challenges and perspectives of movement ecology research in Brazil. Submitted to Perspectives in Ecology and Conservation.
+Alves-Eigenheer, M. et al. Challenges and perspectives of movement ecology research in Brazil. Submitted to Perspectives in Ecology and Conservation.
 
 Descrever melhor...
