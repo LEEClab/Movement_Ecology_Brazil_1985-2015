@@ -15,7 +15,8 @@ The repository has 3 folders:
   4. A [folder](https://github.com/LEEClab/Movement_Ecology_Brazil_1985-2015/tree/master/Data/shapes) containin a map of Brazilian states, as well as the location of movement ecology research groups in Brazil.
 - [Results](https://github.com/LEEClab/Movement_Ecology_Brazil_1985-2015/tree/master/Results): A folder where figures and files are saved, in case the analyses are run.
 
-To re-run the analises, first you have to set the `data` and `results` directories (as well as the `map` directory) in the script, with you local directory path:
+To re-run the analises, first you have to install the required packages (listed in the beggining of the script) and set the `data` and `results` directories (as well as the `map` directory) in the script, with you local directory path:
+
 ```[r]
 # Set working directories
 
