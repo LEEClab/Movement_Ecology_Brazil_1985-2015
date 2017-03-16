@@ -12,7 +12,7 @@ The repository has 3 folders:
   1. A survey of the literature on movement ecology in Brazil, in the period 1985-2005, performed in the scientific citation index [Web of Science®](https://webofknowledge.com). The data are presented in `xls` and `csv` formats.
   2. Questionnaires answered by the participants of the I Movement Ecology Brazil Workshop, in 2015. The data are presented in `xls` and `csv` formats.
   3. A metadata document, explaining in details the columns of the literature and I MEB data.
-  4. A [folder]() containin a map of Brazilian states, as well as the location of movement ecology research groups in Brazil.
+  4. A [folder](https://github.com/LEEClab/Movement_Ecology_Brazil_1985-2015/tree/master/Data/shapes) containin a map of Brazilian states, as well as the location of movement ecology research groups in Brazil.
 - [Results](https://github.com/LEEClab/Movement_Ecology_Brazil_1985-2015/tree/master/Results): A folder where figures and files are saved, in case the analyses are run.
 
 To re-run the analises, first you have to set the `data` and `results` directories (as well as the `map` directory) in the script, with you local directory path:
