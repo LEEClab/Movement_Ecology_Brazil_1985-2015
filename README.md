@@ -31,6 +31,6 @@ resultsdir <- "your_local_path/Results"
 Then you can normally run the script.
 
 If you have any questions or suggestions, contact us:  
-Milene A. Alves-Eigenheer <mileneaae@gmail.com>  
-Bernardo B. S. Niebuhr <bernardo_brandaum@yahoo.com.br>  
-Milton C. Ribeiro <mcr@rc.unesp.br>
+Milene A. Alves-Eigenheer <<mileneaae@gmail.com>>  
+Bernardo B. S. Niebuhr <<bernardo_brandaum@yahoo.com.br>>  
+Milton C. Ribeiro <<mcr@rc.unesp.br>>
