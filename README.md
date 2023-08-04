@@ -4,7 +4,8 @@ Here we present the data and the analyses of the state of the art of scientific 
 
 The data and code presented here is part and Supplementary Material of the article bellow. They present the same analyses presented in the article. To use and cite this, please refer to:
 
-Alves-Eigenheer, M. et al. Challenges and perspectives of movement ecology research in Brazil. Submitted to Perspectives in Ecology and Conservation.
+Alves-Eigenheer, M. et al. Challenges and perspectives of movement ecology research in Brazil. Ecosistemas, 32(2), 2427. https://doi.org/10.7818/ECOS.2427  
+You can also access it here: https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/2427
 
 The repository has 3 folders:
 - [Code](https://github.com/LEEClab/Movement_Ecology_Brazil_1985-2015/tree/master/Code): An R script for running analyses and plotting some figures.
@@ -32,5 +33,5 @@ Then you can normally run the script.
 
 If you have any questions or suggestions, contact us:  
 + Milene A. Alves-Eigenheer <<mileneaae@gmail.com>>  
-+ Bernardo B. S. Niebuhr <<bernardo_brandaum@yahoo.com.br>>  
++ Bernardo B. Niebuhr <<bernardo_brandaum@yahoo.com.br>>  
 + Milton C. Ribeiro <<mcr@rc.unesp.br>>
